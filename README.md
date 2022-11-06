@@ -1,3 +1,3 @@
 #comment
-x=100
+x='a'
 print(x*1000)
